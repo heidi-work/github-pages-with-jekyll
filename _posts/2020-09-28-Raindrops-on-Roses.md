@@ -1,6 +1,6 @@
 ---
-title:  "Welcome to my Blog"
-date: 2020-09-28
+title: "Your blog post title"
+date: YYYY-MM-DD
 ---
 
 # Raindrops on Roses
