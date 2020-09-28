@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Welcome to my Blog"
 date: 2020-09-28
 ---
