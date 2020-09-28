@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Raindrops on Roses"
+title:  "Welcome to my Blog"
+date: "2020-09-28"
 ---
 
 # Raindrops on Roses
